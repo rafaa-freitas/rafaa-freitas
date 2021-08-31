@@ -1,11 +1,6 @@
 ### Olá, eu sou o Rafael Freitas.
 Seja bem-vindo(a)! 👋
 
-- 🔭 Hoje faço estágio em desenvolvimento
-- 🌱 Estudando um Javascript, Typescript e AngularJS
-- 📫 Contate-me no email: rafaafreitasf@hotmail.com
-- 😄 Pronomes: ele/dele
-
 <div>
   <a href="https://github.com/rafaa-freitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaa-freitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

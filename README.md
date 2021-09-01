@@ -1,5 +1,6 @@
  
 ### Olá, eu sou o Rafael Freitas
+### Seja bem-vindo(a)! 👋
 ##
 <div>
   <a href="https://github.com/rafaa-freitas">
